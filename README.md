@@ -3,18 +3,18 @@
 <p align="center" ,>Hi! 👋,Im reza baradaran</p>
 <hr/>
 <p align="center">A passionate flutter Developer developer</p>
-<p>🚀-Looking for more challanges</p>
-<p>💻-Looking for more challanges</p>
-<p>🌍-Looking for more challanges</p>
-<p>💡-Looking for more challanges</p>
-<p>🔗-Looking for more challanges</p>
+<p>🌍-Scalability</p>
+<p>👨‍💻-Effective team player</p>
 <p>🔭-Looking for more challanges</p>
-<p>🌱-Looking for more challanges</p>
-<p>💬-Looking for more challanges</p>
-<p>👨‍💻-Looking for more challanges</p>
+<p>💡-Strong attention to UI/UX details</p>
+<p>🚀-Eager to learn new technologies</p>
+<p>🕝-Time management & meeting deadlines</p>
+<p>💻-Strong analytical & problem-solving skills</p>
+<p>🌱-Commitment to Clean Code & Maintainability</p>
+<p>💬-Effective communication with design/backend teams</p>
 <H2>Connect with me :</H2>
 <img width="50" height="50" alt="telegram" src="https://github.com/user-attachments/assets/c83d2bc9-3665-4ee6-8702-5c3fdf8652a4" />
-<img width="50" height="50" alt="telegram" src="https://github.com/user-attachments/assets/c83d2bc9-3665-4ee6-8702-5c3fdf8652a4" />
+<img width="50" height="50" alt="3d-felt-linkedin-logo" src="https://github.com/user-attachments/assets/f8595ba6-d05f-4409-a955-578979e0415e" />
 <img width="50" height="50" alt="telegram" src="https://github.com/user-attachments/assets/c83d2bc9-3665-4ee6-8702-5c3fdf8652a4" />
 <img width="50" height="50" alt="telegram" src="https://github.com/user-attachments/assets/c83d2bc9-3665-4ee6-8702-5c3fdf8652a4" />
 
