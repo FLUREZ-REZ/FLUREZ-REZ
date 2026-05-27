@@ -15,8 +15,9 @@
 <H2>Connect with me :</H2>
 <img width="50" height="50" alt="telegram" src="https://github.com/user-attachments/assets/c83d2bc9-3665-4ee6-8702-5c3fdf8652a4" />
 <img width="50" height="50" alt="3d-felt-linkedin-logo" src="https://github.com/user-attachments/assets/f8595ba6-d05f-4409-a955-578979e0415e" />
-<img width="50" height="50" alt="telegram" src="https://github.com/user-attachments/assets/c83d2bc9-3665-4ee6-8702-5c3fdf8652a4" />
-<img width="50" height="50" alt="telegram" src="https://github.com/user-attachments/assets/c83d2bc9-3665-4ee6-8702-5c3fdf8652a4" />
+<img width="50" height="50" alt="instagram-logo-3d" src="https://github.com/user-attachments/assets/8e6d6be1-c70e-471e-abe2-971aaa3c7625" />
+
+
 
 <H2>Languages and Tools:</H2>
 <img width="40" height="40" alt="html" src="https://github.com/user-attachments/assets/55dd2bed-e72f-44e5-b046-72544730cd2c" />
