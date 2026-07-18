@@ -13,7 +13,10 @@
 <p>🌱-Commitment to Clean Code & Maintainability</p>
 <p>💬-Effective communication with design/backend teams</p>
 <H2>Connect with me :</H2>
-<img width="50" height="50" alt="telegram" src="https://github.com/user-attachments/assets/c83d2bc9-3665-4ee6-8702-5c3fdf8652a4" />
+<a href="https://t.me/RezaBr_Official">
+  <img src="https://github.com/user-attachments/assets/c83d2bc9-3665-4ee6-8702-5c3fdf8652a4" alt="Telegram" width="300">
+</a>
+
 <img width="50" height="50" alt="3d-felt-linkedin-logo" src="https://github.com/user-attachments/assets/f8595ba6-d05f-4409-a955-578979e0415e" />
 <img width="50" height="50" alt="instagram-logo-3d" src="https://github.com/user-attachments/assets/8e6d6be1-c70e-471e-abe2-971aaa3c7625" />
 
